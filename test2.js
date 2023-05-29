@@ -1,1 +1,1 @@
-console.log('test dua');
+console.log('test dua baru');
